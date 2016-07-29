@@ -1,0 +1,4 @@
+Quest.MainActivity, Quest;md5b79e536080f475a024260c8758c93dfb.MainActivity
+Quest.MainActivity, Quest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b79e536080f475a024260c8758c93dfb.MainActivity
+Quest.MainActivity;md5b79e536080f475a024260c8758c93dfb.MainActivity
+quest.MainActivity;md5b79e536080f475a024260c8758c93dfb.MainActivity

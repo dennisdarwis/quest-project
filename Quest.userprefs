@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Quest/Quest.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Quest/MainActivity.cs">
+    <Files>
+      <File FileName="Quest/MainActivity.cs" Line="23" Column="51" />
+      <File FileName="Quest/CreateQuestActivity.cs" Line="23" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Quest AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5_API_23" AndroidDesignerPreferredTheme="Theme.Custom" />
+</Properties>

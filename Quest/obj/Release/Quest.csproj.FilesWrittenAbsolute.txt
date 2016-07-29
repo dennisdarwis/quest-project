@@ -1,0 +1,15 @@
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/dennisdarwis/Projects/Quest/Quest/bin/Release/Quest.dll
+/Users/dennisdarwis/Projects/Quest/Quest/bin/Release/com.companyname.quest.apk
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/android/bin/com.companyname.quest.apk
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/res/layout/main.xml
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/res/values/strings.xml
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/res/mipmap-hdpi/icon.png
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/res/mipmap-mdpi/icon.png
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/res/mipmap-xhdpi/icon.png
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/res/mipmap-xxhdpi/icon.png
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/res/mipmap-xxxhdpi/icon.png
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/R.cs.flag
+/Users/dennisdarwis/Projects/Quest/Quest/bin/Release/com.companyname.quest-Signed.apk
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/uploadflags.txt
+/Users/dennisdarwis/Projects/Quest/Quest/obj/Release/Quest.dll

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<color name="theme_custom_background">#ff000000</color>
+	<color name="theme_black_notitlebar_fullscreen_background">#ffe1f5fe</color>
+	<style name="Theme.Custom" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+		<item name="android:colorBackground">@color/theme_custom_background</item>
+		<item name="android:windowBackground">?android:attr/colorBackground</item>
+		<item name="android:colorPrimary">#ffe1f5fe</item>
+		<item name="android:colorPrimaryDark">#ffe1f5fe</item>
+	</style>
+</resources>

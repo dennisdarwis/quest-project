@@ -1,0 +1,16 @@
+Quest.MainActivity, Quest;md5b79e536080f475a024260c8758c93dfb.MainActivity
+Quest.MainActivity, Quest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b79e536080f475a024260c8758c93dfb.MainActivity
+Quest.MainActivity;md5b79e536080f475a024260c8758c93dfb.MainActivity
+quest.MainActivity;md5b79e536080f475a024260c8758c93dfb.MainActivity
+Quest.FindQuestActivity, Quest;md5b79e536080f475a024260c8758c93dfb.FindQuestActivity
+Quest.FindQuestActivity, Quest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b79e536080f475a024260c8758c93dfb.FindQuestActivity
+Quest.FindQuestActivity;md5b79e536080f475a024260c8758c93dfb.FindQuestActivity
+quest.FindQuestActivity;md5b79e536080f475a024260c8758c93dfb.FindQuestActivity
+Quest.CreateQuestActivity, Quest;md5b79e536080f475a024260c8758c93dfb.CreateQuestActivity
+Quest.CreateQuestActivity, Quest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b79e536080f475a024260c8758c93dfb.CreateQuestActivity
+Quest.CreateQuestActivity;md5b79e536080f475a024260c8758c93dfb.CreateQuestActivity
+quest.CreateQuestActivity;md5b79e536080f475a024260c8758c93dfb.CreateQuestActivity
+Quest.ListViewAdapter, Quest;md5b79e536080f475a024260c8758c93dfb.ListViewAdapter
+Quest.ListViewAdapter, Quest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b79e536080f475a024260c8758c93dfb.ListViewAdapter
+Quest.ListViewAdapter;md5b79e536080f475a024260c8758c93dfb.ListViewAdapter
+quest.ListViewAdapter;md5b79e536080f475a024260c8758c93dfb.ListViewAdapter
