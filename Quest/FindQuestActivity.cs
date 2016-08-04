@@ -33,7 +33,7 @@ namespace Quest
 			request.Headers.Add ("X-DreamFactory-Api-Key","be8387a7b036ea65deb04d1a20d85e619b7e1634aa55b1cf6cc3988f130a2e81");
 			request.Headers.Add("X-DreamFactory-Session-Token", "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjIsInVzZXJfaWQiOjIsImVtYWlsIjoicHVibGljQHB1YmxpYy5jb20iLCJmb3JldmVyIjp0cnVlLCJpc3MiOiJodHRwOlwvXC8xMDQuMTk5LjE1NS4xNVwvYXBpXC92MlwvdXNlclwvc2Vzc2lvbiIsImlhdCI6MTQ3MDMyOTY2MCwiZXhwIjoxNDcwMzcyODYwLCJuYmYiOjE0NzAzMjk2NjAsImp0aSI6IjMzOGVlMDdjY2E4NjAyYjAzY2YzN2YyZDVkNDY1M2U1In0.AxEGI08WsP4PLNUed_EDP4J2J8Pl5U7V5-53DrxVH3g");
 			request.ContentType = "application/json";
-			HttpWebResponse myResp = (HttpWebResponse)request.GetResponse();
+			//HttpWebResponse myResp = (HttpWebResponse)request.GetResponse();
 			string JSONString;
 			using (var response = request.GetResponse())
 			{
@@ -66,7 +66,7 @@ namespace Quest
 
 		void mListView_itemClick(object sender, AdapterView.ItemClickEventArgs e)
 		{
-			Toast.MakeText(this, mItems[e.Position].questName + " " + mItems[e.Position].id, ToastLength.Short).Show();
+			//Toast.MakeText(this, mItems[e.Position].questName + " " + mItems[e.Position].id, ToastLength.Short).Show();
 			Console.WriteLine(mItems[e.Position].questName+" "+mItems[e.Position].id);
 			var intent = new Intent(this, typeof(ViewQuestActivity));
 			intent.PutExtra("id", mItems[e.Position].id);
