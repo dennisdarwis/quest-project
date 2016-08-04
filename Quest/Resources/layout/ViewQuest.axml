@@ -20,7 +20,8 @@
             android:textColor="#ff03a9f4"
             android:textSize="50dp"
             android:gravity="center"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:textIsSelectable="true" />
     </LinearLayout>
     <LinearLayout
         android:orientation="vertical"
@@ -60,7 +61,8 @@
                     android:gravity="center"
                     android:layout_marginRight="10sp"
                     android:textStyle="bold"
-                    android:textSize="30dp" />
+                    android:textSize="30dp"
+                    android:textIsSelectable="true" />
             </LinearLayout>
             <LinearLayout
                 android:orientation="vertical"
@@ -84,7 +86,8 @@
                     android:textStyle="bold"
                     android:layout_marginRight="10dp"
                     android:layout_marginLeft="10dp"
-                    android:layout_marginTop="10dp" />
+                    android:layout_marginTop="10dp"
+                    android:textIsSelectable="true" />
             </LinearLayout>
             <LinearLayout
                 android:orientation="vertical"
@@ -111,7 +114,8 @@
                     android:gravity="center"
                     android:layout_marginRight="10sp"
                     android:textStyle="bold"
-                    android:textSize="30dp" />
+                    android:textSize="30dp"
+                    android:textIsSelectable="true" />
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
