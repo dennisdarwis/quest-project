@@ -20,11 +20,11 @@ public final class R {
     public static final class id {
         public static final int buttonCreateQuest=0x7f080004;
         public static final int buttonFindQuest=0x7f08000b;
-        public static final int contactAndInformation=0x7f080003;
         public static final int header=0x7f080005;
         public static final int linearLayout2=0x7f080008;
         public static final int logo=0x7f080009;
         public static final int menuInterface=0x7f08000a;
+        public static final int questContact=0x7f080003;
         public static final int questDescription=0x7f080002;
         public static final int questList=0x7f080007;
         public static final int questName=0x7f080000;

@@ -85,9 +85,6 @@ namespace Quest
 			// aapt resource value: 0x7f08000b
 			public const int buttonFindQuest = 2131230731;
 			
-			// aapt resource value: 0x7f080003
-			public const int contactAndInformation = 2131230723;
-			
 			// aapt resource value: 0x7f080005
 			public const int header = 2131230725;
 			
@@ -99,6 +96,9 @@ namespace Quest
 			
 			// aapt resource value: 0x7f08000a
 			public const int menuInterface = 2131230730;
+			
+			// aapt resource value: 0x7f080003
+			public const int questContact = 2131230723;
 			
 			// aapt resource value: 0x7f080002
 			public const int questDescription = 2131230722;
