@@ -36,6 +36,11 @@ namespace Quest
 				StartActivity(intent);
 			};
 		}
+
+		public override void OnBackPressed()
+		{
+			MoveTaskToBack(true);
+		}
 	}
 }
 

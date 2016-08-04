@@ -54,6 +54,7 @@
     <Compile Include="CreateQuestActivity.cs" />
     <Compile Include="ListViewAdapter.cs" />
     <Compile Include="QuestModel.cs" />
+    <Compile Include="ViewQuestActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -74,6 +75,7 @@
     <AndroidResource Include="Resources\drawable\logo.png" />
     <AndroidResource Include="Resources\layout\CreateQuest.axml" />
     <AndroidResource Include="Resources\layout\ListViewRow.axml" />
+    <AndroidResource Include="Resources\layout\ViewQuest.axml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

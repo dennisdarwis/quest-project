@@ -8,7 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/questName"
-        android:layout_marginTop="150dp"
+        android:layout_marginTop="125dp"
         android:hint="Quest Name"
         android:gravity="center" />
     <EditText

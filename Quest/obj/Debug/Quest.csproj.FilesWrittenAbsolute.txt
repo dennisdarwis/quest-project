@@ -43,3 +43,4 @@
 /Users/dennisdarwis/quest-project/Quest/obj/Debug/Quest.dll
 /Users/dennisdarwis/quest-project/Quest/obj/Debug/Quest.dll.mdb
 /Users/dennisdarwis/quest-project/Quest/bin/Debug/Newtonsoft.Json.dll
+/Users/dennisdarwis/quest-project/Quest/obj/Debug/res/layout/viewquest.xml

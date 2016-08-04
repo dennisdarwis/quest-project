@@ -13,6 +13,7 @@
     </activity>
     <activity android:label="FindQuestActivity" android:name="md5b79e536080f475a024260c8758c93dfb.FindQuestActivity" />
     <activity android:label="CreateQuestActivity" android:name="md5b79e536080f475a024260c8758c93dfb.CreateQuestActivity" />
+    <activity android:label="ViewQuestActivity" android:name="md5b79e536080f475a024260c8758c93dfb.ViewQuestActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.quest.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">

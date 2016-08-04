@@ -14,3 +14,7 @@ Quest.ListViewAdapter, Quest;md5b79e536080f475a024260c8758c93dfb.ListViewAdapter
 Quest.ListViewAdapter, Quest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b79e536080f475a024260c8758c93dfb.ListViewAdapter
 Quest.ListViewAdapter;md5b79e536080f475a024260c8758c93dfb.ListViewAdapter
 quest.ListViewAdapter;md5b79e536080f475a024260c8758c93dfb.ListViewAdapter
+Quest.ViewQuestActivity, Quest;md5b79e536080f475a024260c8758c93dfb.ViewQuestActivity
+Quest.ViewQuestActivity, Quest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b79e536080f475a024260c8758c93dfb.ViewQuestActivity
+Quest.ViewQuestActivity;md5b79e536080f475a024260c8758c93dfb.ViewQuestActivity
+quest.ViewQuestActivity;md5b79e536080f475a024260c8758c93dfb.ViewQuestActivity

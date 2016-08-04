@@ -85,8 +85,20 @@ namespace Quest
 			// aapt resource value: 0x7f08000b
 			public const int buttonFindQuest = 2131230731;
 			
+			// aapt resource value: 0x7f080010
+			public const int contact = 2131230736;
+			
+			// aapt resource value: 0x7f08000d
+			public const int content = 2131230733;
+			
+			// aapt resource value: 0x7f08000f
+			public const int description = 2131230735;
+			
 			// aapt resource value: 0x7f080005
 			public const int header = 2131230725;
+			
+			// aapt resource value: 0x7f08000c
+			public const int header2 = 2131230732;
 			
 			// aapt resource value: 0x7f080008
 			public const int linearLayout2 = 2131230728;
@@ -111,6 +123,9 @@ namespace Quest
 			
 			// aapt resource value: 0x7f080001
 			public const int questReward = 2131230721;
+			
+			// aapt resource value: 0x7f08000e
+			public const int reward = 2131230734;
 			
 			// aapt resource value: 0x7f080006
 			public const int textView1 = 2131230726;
@@ -139,6 +154,9 @@ namespace Quest
 			
 			// aapt resource value: 0x7f040003
 			public const int Main = 2130968579;
+			
+			// aapt resource value: 0x7f040004
+			public const int ViewQuest = 2130968580;
 			
 			static Layout()
 			{
