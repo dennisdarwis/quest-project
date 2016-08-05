@@ -31,7 +31,7 @@ namespace Quest
 			HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
 			request.Method = "GET";
 			request.Headers.Add ("X-DreamFactory-Api-Key","be8387a7b036ea65deb04d1a20d85e619b7e1634aa55b1cf6cc3988f130a2e81");
-			request.Headers.Add("X-DreamFactory-Session-Token", "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjIsInVzZXJfaWQiOjIsImVtYWlsIjoicHVibGljQHB1YmxpYy5jb20iLCJmb3JldmVyIjp0cnVlLCJpc3MiOiJodHRwOlwvXC8xMDQuMTk5LjE1NS4xNVwvYXBpXC92MlwvdXNlclwvc2Vzc2lvbiIsImlhdCI6MTQ3MDMyOTY2MCwiZXhwIjoxNDcwMzcyODYwLCJuYmYiOjE0NzAzMjk2NjAsImp0aSI6IjMzOGVlMDdjY2E4NjAyYjAzY2YzN2YyZDVkNDY1M2U1In0.AxEGI08WsP4PLNUed_EDP4J2J8Pl5U7V5-53DrxVH3g");
+			request.Headers.Add("X-DreamFactory-Session-Token", "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjIsInVzZXJfaWQiOjIsImVtYWlsIjoicHVibGljQHB1YmxpYy5jb20iLCJmb3JldmVyIjp0cnVlLCJpc3MiOiJodHRwOlwvXC8xMDQuMTk5LjE1NS4xNVwvYXBpXC92MlwvdXNlclwvc2Vzc2lvbiIsImlhdCI6MTQ3MDM4MzczMCwiZXhwIjoxNTAxOTE5NzMwLCJuYmYiOjE0NzAzODM3MzAsImp0aSI6ImFlZWQ3YWRhYmI4N2I0ODBhNmIyYWRlYWM0YzQzZTU0In0.J35hKt384v25G3ylb547w0OAlJ4yYGWRxhknwm5sYhg");
 			request.ContentType = "application/json";
 			//HttpWebResponse myResp = (HttpWebResponse)request.GetResponse();
 			string JSONString;
