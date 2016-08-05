@@ -36,9 +36,10 @@ namespace Quest
 				JSONString = "{\"resource\": [{" +
 				                                  "\"questName\": \""+questName.Text+"\"," +
 				                                  "\"questReward\": \""+questReward.Text+"\"," +
-				                                  "\"questDescription\": \""+questDescription.Text+"\"," +
+				                                  "\"questDescription\": \""+questDescription.Text.Replace("\n", "\\n") +"\"," +
 				                                  "\"questContact\": \""+questContact.Text+"\"}]}";
 				string url = "http://104.199.155.15/api/v2/db/_table/quest";
+				//Console.WriteLine("JSON: " + JSONString);
 				HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
 				request.Method = "POST";
 				request.Headers.Add("X-DreamFactory-Api-Key", "be8387a7b036ea65deb04d1a20d85e619b7e1634aa55b1cf6cc3988f130a2e81");
