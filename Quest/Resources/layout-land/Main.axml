@@ -10,15 +10,16 @@
         android:minWidth="25px"
         android:minHeight="25px"
         android:layout_width="match_parent"
-        android:layout_height="250.7dp"
+        android:layout_height="164.5dp"
         android:id="@+id/logo">
         <ImageView
             android:src="@drawable/logo"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="113.0dp"
             android:id="@+id/logo"
             android:layout_marginLeft="25dp"
-            android:layout_marginRight="25dp" />
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="25dp" />
     </LinearLayout>
     <LinearLayout
         android:orientation="vertical"
