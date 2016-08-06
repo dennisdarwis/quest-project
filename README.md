@@ -1,9 +1,9 @@
+# About this app
+This application is running on Android, created by using [Xamarin Studio](https://www.xamarin.com/studio).
+For the backend, it use [Dreamfactory](https://www.dreamfactory.com/) deployed to [Google Cloud Platform](https://cloud.google.com/).
+
 # Quest-project
 QUEST, is a first part of individual project for the SIT313 Mobile Computing unit. Inspired from most of the MMORPG games where the player can get a quest from the quest givers and the player may get either money or experience points or any as the reward once the player has finished the tasks given from the quest, the tasks can be doing small errands like cutting plants collecting items, slaying monsters, etc.. I want to try to make one of the aspects of MMORPG games to be real.
-
-# About this app
-This application is an Android based, created by using [Xamarin Studio](https://www.xamarin.com/studio).
-For the backend, it use [Dreamfactory](https://www.dreamfactory.com/) deployed to [Google Cloud Platform](https://cloud.google.com/).
 
 # Solution
 By the creation of the application to support the communication between quest given and quest taker, I expect to help to every person to help each other by getting what they want.
