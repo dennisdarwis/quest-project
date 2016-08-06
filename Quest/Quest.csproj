@@ -76,9 +76,15 @@
     <AndroidResource Include="Resources\layout\CreateQuest.axml" />
     <AndroidResource Include="Resources\layout\ListViewRow.axml" />
     <AndroidResource Include="Resources\layout\ViewQuest.axml" />
+    <AndroidResource Include="Resources\layout-land\CreateQuest.axml" />
+    <AndroidResource Include="Resources\layout-land\FindQuest.axml" />
+    <AndroidResource Include="Resources\layout-land\ListViewRow.axml" />
+    <AndroidResource Include="Resources\layout-land\Main.axml" />
+    <AndroidResource Include="Resources\layout-land\ViewQuest.axml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />
+    <Folder Include="Resources\layout-land\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
