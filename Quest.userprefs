@@ -1,28 +1,9 @@
 ﻿<Properties StartupItem="Quest/Quest.csproj">
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Quest" expanded="True">
-            <Node name="Quest" expanded="True">
-              <Node name="Assets" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True">
-                <Node name="drawable" expanded="True">
-                  <Node name="logo.png" selected="True" />
-                </Node>
-                <Node name="layout" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Quest AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.LGK520179db292" AndroidDesignerPreferredTheme="Theme.Custom" />
+  <MonoDevelop.Ide.ItemProperties.Quest AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5_API_23" AndroidDesignerPreferredTheme="Theme.Custom" />
 </Properties>
