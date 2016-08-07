@@ -20,11 +20,11 @@ public final class R {
     public static final class id {
         public static final int buttonCreateQuest=0x7f080004;
         public static final int buttonFindQuest=0x7f08000b;
-        public static final int contact=0x7f080010;
-        public static final int content=0x7f08000d;
-        public static final int description=0x7f08000f;
+        public static final int contact=0x7f080011;
+        public static final int content=0x7f08000e;
+        public static final int description=0x7f080010;
         public static final int header=0x7f080005;
-        public static final int header2=0x7f08000c;
+        public static final int header2=0x7f08000d;
         public static final int linearLayout2=0x7f080008;
         public static final int logo=0x7f080009;
         public static final int menuInterface=0x7f08000a;
@@ -33,7 +33,9 @@ public final class R {
         public static final int questList=0x7f080007;
         public static final int questName=0x7f080000;
         public static final int questReward=0x7f080001;
-        public static final int reward=0x7f08000e;
+        public static final int reward=0x7f08000f;
+        public static final int scrollView1=0x7f08000c;
+        public static final int scrollView2=0x7f080012;
         public static final int textView1=0x7f080006;
     }
     public static final class layout {
